@@ -1,4 +1,4 @@
-class Myproject < Formula
+class QoarksCli < Formula
     desc "Qoarks cli app"
     homepage "https://github.com/qoarks/homebrew-qoarks_cli"
     url "https://github.com/qoarks/homebrew-qoarks_cli/releases/download/0.13.0/qoarks_cli-v0.13.0-darwin-amd64.tar.gz"
