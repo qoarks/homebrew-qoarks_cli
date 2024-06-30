@@ -6,7 +6,7 @@ class QoarksCli < Formula
     sha256 "b8188e6fd5180b2d6c72ab1be0adda287b66199d7585da677b9f178d5c625d9d"
   
     def install
-      bin.install "qoark_cli"
+      bin.install "qoarks_cli"
     end
   end
   
